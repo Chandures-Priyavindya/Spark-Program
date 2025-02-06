@@ -1,4 +1,4 @@
-![To-Do List UI](to do ui.png)
+![To-Do List UI](screenshots/to do ui.png)
 ![To-Do List database](database ss.png)
 
 
