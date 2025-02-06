@@ -1,6 +1,5 @@
-![To-Do List UI](screenshots/to do ui.png)
-![To-Do List database](database ss.png)
 <img src="screenshots/to do ui.png" alt="To-Do List UI" width="500">
+<img src="screenshots/database ss.png" alt="To-Do List UI" width="500">
 
 
 
