@@ -9,7 +9,7 @@
 
 1. Clone the repository:
 
-2. Import the `todo_list.sql` database (found in this repository).
+2. Import the `sqlquery.sql` database (found in this repository).
 
 3. Configure `db.php` with your database credentials.
 
