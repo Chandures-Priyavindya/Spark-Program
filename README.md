@@ -1,5 +1,7 @@
 ![To-Do List UI](screenshots/to do ui.png)
 ![To-Do List database](database ss.png)
+<img src="screenshots/to do ui.png" alt="To-Do List UI" width="500">
+
 
 
 # To-Do List Application
